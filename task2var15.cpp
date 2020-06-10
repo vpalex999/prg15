@@ -131,7 +131,7 @@ int main()
 
     const int SIZE = 3;
 
-    int intarr[SIZE] = {2,3,4};
+    int intarr[SIZE] = {5,1,10};
 
     
 
